@@ -1,4 +1,4 @@
-## Devops Course |Sabitov|
+## Devops Course |Sabitov| ![](https://travis-ci.com/FloxNkx/devopsCourse.LP..svg?branch=main)
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/FloxNkx/devopsCourse.LP./tree/main/Lab_1) 
 ## [Lab_2a: Основи роботи з Python.](https://github.com/FloxNkx/devopsCourse.LP./tree/main/Lab_2a)
 ## [Lab_2: Автоматизація. Знайомство з CI/CD.](https://github.com/FloxNkx/devopsCourse.LP./tree/main/Lab_2)
